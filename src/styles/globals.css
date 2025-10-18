@@ -1,0 +1,27 @@
+/* src/styles/globals.css */
+
+/* Apply the Somar font globally */
+:root {
+  --font-somar: 'Somar', sans-serif;
+}
+
+body {
+  font-family: var(--font-somar);
+  margin: 0;
+  padding: 0;
+  /* background-color: #fff; */
+  /* color: #111; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-somar);
+}
+/* main {
+  padding-top: 80px; /* height of your header + extra spacing */ 
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* You can add other global styles here */

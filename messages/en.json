@@ -1,0 +1,98 @@
+{
+  "Header": {
+    "Home": "Home",
+    "Hotels": "Hotels",
+    "AboutUs": "About Us",
+    "Blog": "Blog",
+    "Contact": "Contact",
+    "ListYourProperty": "List your property"
+  },
+  "HomePage": {
+    "HeroHeading": "Find Your Perfect Room",
+    "HeroDescription": "With us, your trip is filled with amazing experiences.",
+    "HeroButton": "Start your search",
+    "SectionHeading": "Let's go on an adventure",
+    "SectionSubheading": "Explore the best places to stay in the world."
+  },
+  "Footer": {
+    "Tagline": "Making the world a better place through constructing elegant hierarchies.",
+    "Company": "Company",
+    "About": "About",
+    "Blog": "Blog",
+    "Contact": "Contact",
+     "Legal": "Legal",
+    "TermsOfService": "Terms and Conditions",
+    "PrivacyPolicy": "Privacy Policy",
+    "Copyright": "Designed and Developed by B-IT."
+  },
+  "AboutPage": {
+    "HeroHeading": "👋 About Us",
+    "HeroSubHeading": "SuperHotel is not just a booking platform—it’s your trusted travel partner for discovering and reserving hotels in Mecca and Medina. With years of expertise and a commitment to excellence, we simplify your journey so you can focus on what truly matters: your spiritual and personal experiences.",
+    "FounderHeading": "Who We Are",
+    "FounderParagraph1": "Founded under Atrujah Al-Hijaz Company, SuperHotel has become a leading platform in the hospitality industry of Saudi Arabia. We specialize in providing seamless hotel booking solutions in the holy cities of Mecca and Medina.",
+    "FounderParagraph2": "Unlike traditional booking services, SuperHotel allows you to choose the perfect option for your stay—whether by bed or by room. This flexibility is designed to suit pilgrims, families, and business travelers alike.",
+    "FounderParagraph3": "Our mission is to combine technology with hospitality, delivering a secure, user-friendly, and reliable service for millions of visitors each year.",
+    "MissionHeading": "Our Mission & Vision",
+    "MissionParagraph": "Our mission is to make every journey smoother by offering reliable booking options, transparent pricing, and outstanding customer support. We aim to empower pilgrims and travelers with convenient access to the best accommodations.",
+    "VisionParagraph": "Our vision is to become the most trusted and innovative hospitality partner in Mecca and Medina, serving millions of satisfied guests worldwide.",
+    "ValuesHeading": "Our Core Values",
+    "ValuesList": [
+      "Trust & Integrity – Your comfort and safety come first.",
+      "Excellence – We strive for world-class service in every booking.",
+      "Innovation – Blending modern technology with traditional hospitality.",
+      "Customer Care – Personalized support throughout your journey."
+    ],
+    "MilestonesHeading": "Our Journey",
+    "Milestone2018": "2018 – Launched SuperHotel with a small but dedicated team in Mecca.",
+    "Milestone2020": "2020 – Introduced bed-based booking to give guests more flexibility.",
+    "Milestone2022": "2022 – Partnered with over 100 hotels across Mecca and Medina.",
+    "Milestone2024": "2024 – Reached 1 million successful bookings with 98% customer satisfaction.",
+    "TestimonialsHeading": "What Our Guests Say",
+    "Testimonial1": "“SuperHotel made my Umrah trip completely stress-free. The booking process was fast, secure, and the hotel exceeded my expectations.” – Ali Hassan",
+    "Testimonial2": "“I’ve used SuperHotel multiple times for both business and pilgrimage trips. Their flexibility in booking and professional support are unmatched.” – Fatimah Saleh",
+    "Testimonial3": "“The option to book by bed was perfect for my group. We saved money and stayed close to Haram without compromise.” – Ahmed Khan",
+    "CTAHeading": "Ready to Book Your Stay?",
+    "CTASubHeading": "Join thousands of satisfied travelers who trust SuperHotel for their Mecca and Medina bookings. Start your journey with confidence today.",
+    "CTAButton": "Book Now"
+  },
+  "Blog": {
+    "title": "Latest Articles",
+    "noArticles": "No articles found",
+    "searchPlaceholder": "Search for articles",
+    "readMore": "Read More"
+  },
+  "ContactInfo": {
+    "Heading": "Contact",
+    "title1": "🗺 ADDRESS",
+    "Socials": "🌏 SOCIALS",
+    "des1": "Photo booth tattooed prism, Portland taiyaki hoodie neutra typewriter",
+    "Name": "Full name",
+    "Email": "Email address",
+    "Message": "Message",
+    "Submit": "Send Message"
+  },
+  "BookingPage": {
+    "Header": {
+      "Congratulations": "Congratulations! 🎉",
+      "BookingConfirmed": "Your booking has been confirmed successfully"
+    },
+    "BookingDetails": {
+      "Heading": "Your Booking Details",
+      "CheckInOut": "Check-in / Check-out",
+      "Guests": "Guests",
+      "BookingInformation": "Booking Information",
+      "BookingCode": "Booking code",
+      "BookingDate": "Booking date",
+      "TotalAmount": "Total amount",
+      "PaymentMethod": "Payment method",
+      "Status": "Status",
+      "Confirmed": "Confirmed",
+      "RoomAmenities": "Amenities"
+    }
+  },
+  "SectionGrid": {
+    "featuredHotels": "Explore Our Featured Hotels",
+    "subHeading": "Find the perfect place to stay for your next trip",
+    "showMore": "Show me more"
+  }
+}
